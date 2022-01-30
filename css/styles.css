@@ -92,8 +92,6 @@ main {
   border-radius: 0 0 10px 10px;
   overflow: hidden;
   letter-spacing: 6px;
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
   display: none;
   line-height: 0;
 }
